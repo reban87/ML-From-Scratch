@@ -1,4 +1,4 @@
-## ML-From-Scratch
+## ML-From-Scratch (Starting soon!!!)
 ### Module 1: Introduction to Machine Learning 📚
 #### Lecture: Overview of Machine Learning
 - **Definition and types of Machine Learning** 🤖

@@ -1,4 +1,4 @@
-### ** Read in the Ecommerce Customers csv file as a DataFrame called customers.**
+### **Read in the Ecommerce Customers csv file as a DataFrame called customers.**
 ### Perform data analysis on this data (head, info, describe)
 ### visualize dataset using sns ( jointplot for Time on Website vs Yearly Amount Spent)
 ### do the same but with TIme on App column instead
